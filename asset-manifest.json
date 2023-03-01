@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kadak/static/css/main.e6c13ad2.css",
+    "main.js": "/Kadak/static/js/main.ce528330.js",
+    "static/js/787.c1112931.chunk.js": "/Kadak/static/js/787.c1112931.chunk.js",
+    "index.html": "/Kadak/index.html",
+    "main.e6c13ad2.css.map": "/Kadak/static/css/main.e6c13ad2.css.map",
+    "main.ce528330.js.map": "/Kadak/static/js/main.ce528330.js.map",
+    "787.c1112931.chunk.js.map": "/Kadak/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ce528330.js"
+  ]
+}
